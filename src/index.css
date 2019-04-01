@@ -12,3 +12,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.user-form {
+  margin: 20px;
+}
+.user-list {
+  margin: 20px;
+}
